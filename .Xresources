@@ -1,0 +1,34 @@
+! --- ~/.Xresources ------------------------------------------------------------
+! ------------------------------------------------------------------------------
+! --- generated with 4bit Terminal Color Scheme Designer -----------------------
+! ------------------------------------------------------------------------------
+! --- http://ciembor.github.com/4bit -------------------------------------------
+! ------------------------------------------------------------------------------
+
+
+URxvt.background: [80]#050c12
+URxvt*foreground:     #fafcf9
+!black
+URxvt*color0:         #808080
+URxvt*color8:         #727272
+!red (H:0)
+URxvt*color1:         #c88e90
+URxvt*color9:         #c77174
+!green (H:120)
+URxvt*color2:         #90c88e
+URxvt*color10:        #74c771
+!brown/yellow (H:50)
+URxvt*color3:         #c8bc8e
+URxvt*color11:        #c7b671
+!blue (H:240)
+URxvt*color4:         #8e90c8
+URxvt*color12:        #7174c7
+!magenta (H:270)
+URxvt*color5:         #b28ec8
+URxvt*color13:        #9971c7
+!cyan (H:180)
+URxvt*color6:         #8ec8c6
+URxvt*color14:        #71c7c3
+!white (S:0)
+URxvt*color7:         #fafcf9
+URxvt*color15:        #c7c7c7

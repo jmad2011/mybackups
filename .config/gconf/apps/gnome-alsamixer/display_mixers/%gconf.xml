@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="USB_Mixer" mtime="1376382036" type="bool" value="true"/>
+	<entry name="Nvidia_GPU_1c_HDMI_DP" mtime="1376382036" type="bool" value="true"/>
+</gconf>

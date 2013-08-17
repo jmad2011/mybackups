@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel>
+<info>
+<metadata/>
+</info>
+<bookmark href="http://www.youtube.com/watch?v=4mMb7qXwhuU">
+<title>Awesome WM on Arch Linux - YouTube</title>
+<info>
+<metadata icon="http://s.ytimg.com/yts/img/favicon-vfldLzJxy.ico" history-step="2" mime-type="text/html"/>
+</info>
+</bookmark>
+<bookmark href="http://pastebin.com/7EiuNxUb">
+<title>ncmpcpp config - Pastebin.com</title>
+<info>
+<metadata dont-write-history="1" icon="http://pastebin.com/favicon.ico" mime-type="text/html"/>
+</info>
+</bookmark>
+<bookmark href="http://pastebin.com/FiqQrp0V">
+<title>Terminal Color - Pastebin.com</title>
+<info>
+<metadata icon="http://pastebin.com/favicon.ico" mime-type="text/html"/>
+</info>
+</bookmark>
+<bookmark href="http://192.168.1.102:49152/">
+<title>MEDIATOMB</title>
+<info>
+<metadata icon="http://192.168.1.102:49152/favicon.ico" history-step="2" mime-type="text/html"/>
+</info>
+</bookmark>
+</xbel>

@@ -1,0 +1,10 @@
+{ 
+   "shell-theme": {
+   "name": "Viper", 
+   "author": "Half-Left", 
+   "version": "1.0",
+   "type":   "custom",
+   "thumbnail": "preview-viper.jpg", 
+   "url": "" 
+    }
+}

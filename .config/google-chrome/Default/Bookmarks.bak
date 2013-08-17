@@ -1,0 +1,42 @@
+{
+   "checksum": "cf7691c697026771d51aa14274dfa32d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13020907225719365",
+            "id": "4",
+            "name": "Irssi - The client of the future",
+            "type": "url",
+            "url": "http://irssi.org/themes"
+         }, {
+            "date_added": "13020910194043641",
+            "id": "5",
+            "name": "Samba Web Administration Tool",
+            "type": "url",
+            "url": "http://localhost:901/status"
+         } ],
+         "date_added": "13020906557434427",
+         "date_modified": "13020910194043641",
+         "id": "1",
+         "name": "Bookmarks Bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13020906557434433",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other Bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13020906557434435",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile Bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

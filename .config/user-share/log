@@ -1,0 +1,4 @@
+[Wed Aug 14 20:22:49 2013] [notice] Digest: generating secret for digest authentication ...
+[Wed Aug 14 20:22:49 2013] [notice] Digest: done
+[Wed Aug 14 20:22:49 2013] [notice] Apache/2.2.25 (Unix) DAV/2 configured -- resuming normal operations
+[Thu Aug 15 14:44:51 2013] [notice] caught SIGTERM, shutting down

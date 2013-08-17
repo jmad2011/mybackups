@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="USB_Mixer-Mic" mtime="1376382043" type="string">
+		<stringvalue>Mic</stringvalue>
+	</entry>
+	<entry name="USB_Mixer-PCM" mtime="1376382043" type="string">
+		<stringvalue>PCM</stringvalue>
+	</entry>
+</gconf>

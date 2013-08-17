@@ -1,0 +1,92 @@
+
+! Xft settings ---------------------------------------------------------------
+
+Xft.dpi:        96
+Xft.antialias:  true
+Xft.rgba:       rgb
+Xft.hinting:    true
+Xft.hintstyle:  hintslight
+
+!-------------------------------------------------------------------------------
+!
+!	U R X V T - Settings
+!
+URxvt*geometry:					100x35
+URxvt*borderLess:				false
+URxvt*depth:					32
+URxvt*scrollBar_right:				true
+URxvt*font:					xft:terminus-9
+URxvt*cursorBlink:				true
+URxvt*cursorUnderline:				true
+URxvt*scrollColor:				#111111
+URxvt*perl-ext-common:				default,clipboard,tabbed,matcher
+URxvt.scrollBar:				off
+URxvt.tabbed.tabbar-fg:			 	7
+URxvt.tabbed.tabbar-bg: 			0
+URxvt.tabbed.tab-fg:    			4
+URxvt.tabbed.tab-bg:    			0	
+URxvt*termName:				 	rxvt-256color
+URxvt.urlLauncher:				/usr/bin/firefox
+URxvt.matcher.button:				1
+
+!---------------------------------------------------------------------------------
+!
+!	U R X V T - Colors
+!
+!---------------------------------------------------------------------------------
+
+
+! --- special colors ---
+
+*background: #170900
+*foreground: #dba94c
+
+! --- standard colors ---
+
+! black
+*color0: #000000
+
+! bright_black
+*color8: #7c7c7c
+
+! red
+*color1: #ae4b1b
+
+! bright_red
+*color9: #d77a48
+
+! green
+*color2: #a75518
+
+! bright_green
+*color10: #d47d47
+
+! yellow
+*color3: #ae5218
+
+! bright_yellow
+*color11: #d77c47
+
+! blue
+*color4: #a44e21
+
+! bright_blue
+*color12: #d37b4a
+
+! magenta
+*color5: #ab4b21
+
+! bright_magenta
+*color13: #d67a4a
+
+! cyan
+*color6: #a4551e
+
+! bright_cyan
+*color14: #d37d49
+
+! white
+*color7: #ababab
+
+! bright_white
+*color15: #c9c9c9

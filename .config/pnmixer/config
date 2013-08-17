@@ -1,0 +1,20 @@
+[PNMixer]
+DisplayTextVolume=true
+TextVolumePosition=3
+MouseScrollStep=1
+HotkeyVolumeStep=1
+MiddleClickAction=0
+CustomCommand=
+VolMuteKey=204
+VolUpKey=204
+VolDownKey=204
+AlsaCard=Turtle Beach PX3 (PC)
+IconTheme=GNOME
+DrawVolMeter=false
+VolMeterPos=0
+VolMeterColor=59624;28270;28270;
+VolumeControlCommand=gnome-alsamixer
+EnableHotKeys=false
+VolMuteMods=0
+VolUpMods=0
+VolDownMods=0

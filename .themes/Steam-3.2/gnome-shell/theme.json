@@ -1,0 +1,10 @@
+{ 
+   "shell-theme": {
+   "name": "Steam-3.2", 
+   "author": "Half-Left", 
+   "version": "1.0",
+   "type":   "custom",
+   "thumbnail": "preview-steam.jpg", 
+   "url": "http://half-left.deviantart.com/" 
+    }
+}
